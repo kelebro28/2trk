@@ -1,4 +1,3 @@
 * [Home](/)
-* Подготовка
-    * [Креативы](docs/creo.md)
+* [Markdown Syntax](docs/markdown.md)
  
